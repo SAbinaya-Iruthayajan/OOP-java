@@ -18,6 +18,9 @@ class Maincomputer{
 	
 		
 		C.write();
+		C.code();
+		C.game();
+		
 		
 	
 		
